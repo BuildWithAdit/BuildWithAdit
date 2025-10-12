@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me  
-Hey, I’m **Adit Jaggi** — a backend developer who believes great systems are built on **clarity, not chaos**.  
+Hey, I’m **Adit** — a backend developer who believes great systems are built on **clarity, not chaos**.  
 I work with **Java, Spring Boot, SQL, and Python**, crafting clean, dependable backends that scale quietly.
 
 💼 Currently building:
@@ -26,9 +26,7 @@ I work with **Java, Spring Boot, SQL, and Python**, crafting clean, dependable b
   <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,react,typescript,tailwind,git,github,linux,postman,idea,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BuildWithAdit/BuildWithAdit/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+![snake gif](https://github.com/BuildWithAdit/BuildWithAdit/blob/output/github-snake-dark.svg)
 
 ---
 
