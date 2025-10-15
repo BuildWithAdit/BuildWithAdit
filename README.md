@@ -17,7 +17,7 @@ I work with **Java, Spring Boot, SQL, and Python**, crafting clean, dependable b
 - 🏛️ **Library Management System** – Java + MySQL backend with CRUD, role access, and modular design  
 - 🎓 **CU Events** – a full-stack event management platform for Chandigarh University students  
 
-> I don’t chase frameworks. I master fundamentals — then let them work for me.
+> let's build something together.
 
 ---
 
