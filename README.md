@@ -52,11 +52,17 @@ A modern full-stack platform for students and organizers.
 
 ---
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuildWithAdit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+### 📊 GitHub Activity  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithAdit&theme=tokyo-night&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BuildWithAdit&style=flat-square&color=00C7A7" />
+</p>
+
+
 
 ---
 
